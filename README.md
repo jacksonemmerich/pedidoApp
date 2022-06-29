@@ -1,14 +1,5 @@
-# Modelo de domínio: como implementar no Spring
+# pedidoApp - Api de pedidos usando springboot
 
-#### DevSuperior - Nelio Alves
-
-[![Image](https://img.youtube.com/vi/OX5MmJrFTdw/mqdefault.jpg "Vídeo no Youtube")](https://youtu.be/OX5MmJrFTdw)
-
-Siga-nos:
-
-https://instagram.com/devsuperior.ig
-
-https://youtube.com/devsuperior
 
 ## Trechos de código
 
@@ -88,3 +79,5 @@ public class OrderController {
 	}
 }
 ```
+
+#### autor: DevSuperior - Nelio Alves  
