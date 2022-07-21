@@ -1,5 +1,10 @@
 # pedidoApp - Api de pedidos usando springboot
 
+## Modelo de Domínio
+![Modelo de Domínio do Projeto](https://user-images.githubusercontent.com/2973267/180280117-47a783c9-dbf1-4bc9-98f5-2847ea75ea96.png)
+
+## Requisitos
+![Modelo de Domínio do Projeto](https://user-images.githubusercontent.com/2973267/180279710-0825611b-26dc-4f6d-8654-04afe702df5a.png)
 
 ## Trechos de código
 
